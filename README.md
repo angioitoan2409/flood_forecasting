@@ -28,3 +28,7 @@ The project is modularized into several Jupyter Notebooks, each handling specifi
 Ensure all required Python dependencies are installed prior to executing the notebooks:
 ```bash
 pip install osmnx geopandas rasterio numpy matplotlib
+```
+
+
+**Due to current limitations in my theoretical background, I am unable to fully reproduce the codebase required to implement the paper's primary model. Consequently, Models 01 and 02 represent the maximum extent of my current progress. I intend to revise and update this manuscript as my technical proficiency advances**
